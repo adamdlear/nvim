@@ -25,7 +25,7 @@ LSP servers install lazily per filetype via Mason on first open.
 ### Option 1 — manual
 
 ```sh
-git clone https://github.com/adamdlear/nvim-minimal.git ~/.config/nvim-minimal
+git clone https://github.com/adamdlear/nvim.git ~/.config/nvim-minimal
 NVIM_APPNAME=nvim-minimal nvim
 ```
 
@@ -44,7 +44,7 @@ nvmgr setup
 Then install and switch:
 
 ```sh
-nvmgr install https://github.com/adamdlear/nvim-minimal.git minimal
+nvmgr install https://github.com/adamdlear/nvim.git minimal
 nvmgr use minimal
 ```
 
