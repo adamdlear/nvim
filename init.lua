@@ -22,7 +22,7 @@ vim.pack.add({
   -- Theme
   "https://github.com/catppuccin/nvim",
   -- Parser installer; 0.12 ships treesitter highlighting natively
-  "https://github.com/neovim-treesitter/nvim-treesitter",
+  "https://github.com/nvim-treesitter/nvim-treesitter",
   -- LSP / language support
   "https://github.com/mason-org/mason.nvim",
   "https://github.com/mason-org/mason-lspconfig.nvim",
